@@ -1,0 +1,14 @@
+# Instructions
+Today is #{today}.
+Please create a quiz about #{category} based on the following constraints.
+
+# Constraints
+- The quiz should consist of one question.
+- There should be four answer choices provided.
+- Provide four answer choices, one being the correct answer and three being incorrect.
+- The answer and description should be provided together.
+- The answer description should be approximately 50 characters.
+- The output should be in Japanese.
+
+# Output:
+{"question": "Question", "choices":[ "Choice 1","Choice 2","Choice 3","Choice 4"], "answer": "correct answer number", "description": "Description"}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "918117743660",
+    "project_id": "gpt-quiz-aded8",
+    "storage_bucket": "gpt-quiz-aded8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918117743660:android:a2228559f6b9e2072aa589",
+        "android_client_info": {
+          "package_name": "com.example.gpt_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918117743660-m7cckratme4teijnm7r1c1tgmn4kfs77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYrqX1XhsGx2FP4hD2vW9eJkfO3FqvEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918117743660-3ma59541mc5ku5cts5okjp4l298j0us6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "918117743660-m3sf7f7467h9vfn7o51t2rli9hcfak8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gptQuiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
