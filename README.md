@@ -12,3 +12,4 @@ OPENAI_API_KEY=[Your API key]
 </pre>
 
 ## Demo
+![demo](https://user-images.githubusercontent.com/2169475/231032193-f10fcebe-13ed-48fe-8913-49b6d198dfed.gif)
